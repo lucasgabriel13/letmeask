@@ -10,5 +10,5 @@
 
 Faça um clone da aplicação e abra a pasta letmeask:
 
-<code>$ git clone https://github.com/lucasgabriel13/letmeask.git <br/>
-$ cd letmesak</code>
+<pre><code>$ git clone https://github.com/lucasgabriel13/letmeask.git
+$ cd letmesak</code></pre>
