@@ -15,8 +15,9 @@ $ cd letmesak</code></pre>
 
 <p>Para iniciar o projeto, siga os passos abaixo:</p>
 <pre><code>
-# Para instalar as depêndencias
+
+[//]: <> (Instalar as dependências.)
 $ yarn
 
-# Para executar a aplicação
+[//]: <> (Para executar a aplicação.)
 $ yarn start</code></pre>
