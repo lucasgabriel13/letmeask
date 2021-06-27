@@ -19,6 +19,6 @@ $ cd letmesak</code></pre>
 Instalar as dependências
 $ yarn
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: # (This is a comment, it will not be included)
 Para executar a aplicação
 $ yarn start</code></pre>
