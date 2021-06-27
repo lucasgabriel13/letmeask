@@ -8,7 +8,14 @@
 
 # Como executar 
 
-Faça um clone da aplicação e abra a pasta letmeask:
+<p>Faça um clone da aplicação e abra a pasta letmeask:</p>
 
 <pre><code>$ git clone https://github.com/lucasgabriel13/letmeask.git
 $ cd letmesak</code></pre>
+
+<p>Para iniciar o projeto, siga os passos abaixo:</p>
+<pre><code>
+//Para instalar as depêndencias
+$ yarn
+//Para executar a aplicação
+$ yarn start</code></pre>
