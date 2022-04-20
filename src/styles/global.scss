@@ -1,14 +1,38 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
-body{
-  background: #f8f8f8;
+:root {
+  --primary: #835afd;
+  --text-color: #f2f3f5;
+  --white: white;
+  --grey: #737380;
+  --title: #29292e;
+}
+
+.dark:root {
+  --primary: #222222;
+  --background: #222222;
+  --text-color: #f8f8f8;
+  --grey: #f2f3f5;
+  --title: #f2f3f5;
+
+  body {
+    color: #f2f3f5;
+  }
+}
+
+body {
+  background: var(--background);
   color: #29292e;
 }
 
-body, input, button, select, textarea{
-  font: 400 16px 'Roboto', sans-serif;
+body,
+input,
+button,
+select,
+textarea {
+  font: 400 16px "Roboto", sans-serif;
 }

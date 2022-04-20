@@ -6,8 +6,9 @@
   aside {
     flex: 7;
 
-    background: #835afd;
-    color: #fff;
+    background: var(--primary);
+    color: var(--white);
+    
 
     display: flex;
     flex-direction: column;
@@ -81,7 +82,7 @@
 
     p {
       font-size: 14px;
-      color: #737380;
+      color: var(--grey);
       margin-top: 16px;
 
       a {

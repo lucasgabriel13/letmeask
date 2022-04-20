@@ -44,7 +44,7 @@
       h1 {
         font-family: "Poppins", sans-serif;
         font-size: 24px;
-        color: #29292e;
+        color: var(--title);
       }
 
       span {
@@ -88,7 +88,7 @@
 
           span {
             margin-left: 8px;
-            color: #29292e;
+            color: var(--title);
             font-weight: 500;
             font-size: 14px;
           }
